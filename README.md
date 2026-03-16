@@ -2,7 +2,7 @@
 
 Este proyecto es un simulador de dinámica de fluidos incompresibles en 2D que utiliza un enfoque **pseudo-espectral** para resolver la ecuación de transporte de vorticidad. Es ideal para estudiar la turbulencia en condiciones ideales y visualizar la formación de estructuras coherentes (vórtices).
 
-![Fluid Simulation Demo](https://tu-enlace-a-un-gif-aqui.gif) ## 🔬 Fundamentos Físicos
+![Fluid Simulation Demo](https://github.com/luisdariosilvanoguera888-cmyk/Cambio-clim-tico-FluidDynamics/blob/main/VID-20260316-WA0045~2.mp4) ## 🔬 Fundamentos Físicos
 
 El simulador resuelve la evolución de la vorticidad $q$ definida como el rotacional de la velocidad ($\omega = \nabla \times \mathbf{u}$). La dinámica se rige por:
 
